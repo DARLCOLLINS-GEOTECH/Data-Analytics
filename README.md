@@ -194,9 +194,9 @@ I am open to opportunities, collaborations, and conversations related to:
 * Research and Data Analysis
 * Data-driven Decision-Making
 
-**GitHub:** [Your GitHub Profile](YOUR-GITHUB-LINK)
-**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/darlington-cosmas-58349b16b)
-**Email:** [your-email@example.com](obuniked@gmail.com)
+**GitHub:** https://github.com/DARLCOLLINS-GEOTECH 
+**LinkedIn:** www.linkedin.com/in/darlington-cosmas-58349b16b 
+**Email:** obuniked@gmail.com 
 
 ---
 
